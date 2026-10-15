@@ -1,0 +1,22 @@
+[
+  {"question": "When was the business founded?",
+   "expect_any": ["a phrase from the about page, e.g. 'launched in 20XX'"]},
+  {"question": "What is the street address of the retail store?",
+   "expect_any": ["part of the street address"]},
+  {"question": "What are the retail store hours?",
+   "expect_any": ["an hours phrase exactly as written, e.g. '10am - 8pm'"]},
+  {"question": "What phone number can customers call?",
+   "expect_any": ["the last 7 digits, in each format the site uses"]},
+  {"question": "How much does the premium membership cost per month?",
+   "expect_any": ["the price, e.g. '$39.99'"]},
+  {"question": "Is there a discount code for first-time customers?",
+   "expect_any": ["the code"]},
+  {"question": "How does the in-store loyalty program work?",
+   "expect_any": ["a phrase from the loyalty rules"]},
+  {"question": "What is the meaning behind the business name?",
+   "expect_any": ["a phrase from the name explanation"]},
+  {"question": "What is CBG?",
+   "expect_any": ["a phrase from the FAQ answer"]},
+  {"question": "Do they offer a discount for veterans?",
+   "expect_any": ["a phrase from the veterans offer"]}
+]

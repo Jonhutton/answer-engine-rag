@@ -1,0 +1,5 @@
+chromadb
+sentence-transformers
+anthropic
+requests
+beautifulsoup4

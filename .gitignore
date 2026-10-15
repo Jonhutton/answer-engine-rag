@@ -1,0 +1,6 @@
+.venv/
+rag_db/
+.env
+__pycache__/
+crawled_pages/
+questions.json
